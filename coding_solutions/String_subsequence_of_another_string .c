@@ -1,8 +1,12 @@
 /******************************************************************************
+.A user will input two strings, and we find if one of the strings is a sub sequence of the other. Program prints “yes” if either the first string is a sub sequence of the second string or the second string is a sub sequence of the first string.
+Assume that, the length of the first string is smaller than or equal to the length of the second string.
+Input the first string
+tree
+Input the second string
+Computer science is awesome
+YES
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
 
